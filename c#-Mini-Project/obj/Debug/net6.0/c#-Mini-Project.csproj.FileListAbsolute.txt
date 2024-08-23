@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\bin\Debug\net6.0\c#-Mini-Project.exe
+C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\bin\Debug\net6.0\c#-Mini-Project.deps.json
+C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\bin\Debug\net6.0\c#-Mini-Project.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\bin\Debug\net6.0\c#-Mini-Project.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\bin\Debug\net6.0\c#-Mini-Project.pdb
+C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\obj\Debug\net6.0\c#-Mini-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\obj\Debug\net6.0\c#-Mini-Project.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\obj\Debug\net6.0\c#-Mini-Project.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\obj\Debug\net6.0\c#-Mini-Project.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\obj\Debug\net6.0\c#-Mini-Project.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\obj\Debug\net6.0\refint\c#-Mini-Project.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\obj\Debug\net6.0\c#-Mini-Project.pdb
+C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\obj\Debug\net6.0\c#-Mini-Project.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\obj\Debug\net6.0\ref\c#-Mini-Project.dll
