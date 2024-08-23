@@ -142,7 +142,7 @@ internal class Generic<T>
         var item = _datas[index];
         values.Add(value);
         values.Add(item);
-        for (int i = index+1; i <= count-1; i++)
+        for (int i = index+1; i <= count; i++)
         {
             values.Add(_datas[i]);
         }
@@ -174,7 +174,7 @@ internal class Generic<T>
     public override string ToString()
     {
         string result = string.Empty;
-        for (int i = 0; i < count; i++)
+        for (int i = 0; i <= count; i++)
         {
             result += _datas[i].ToString() + " ";
         }
