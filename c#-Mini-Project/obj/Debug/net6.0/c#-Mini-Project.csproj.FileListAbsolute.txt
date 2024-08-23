@@ -12,3 +12,4 @@ C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini
 C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\obj\Debug\net6.0\c#-Mini-Project.pdb
 C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\obj\Debug\net6.0\c#-Mini-Project.genruntimeconfig.cache
 C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\obj\Debug\net6.0\ref\c#-Mini-Project.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\Mini Projects\c#-Mini-Project\c#-Mini-Project\obj\Debug\net6.0\c#-Mini-Project.sourcelink.json
